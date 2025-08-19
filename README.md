@@ -13,7 +13,7 @@ Puedes acceder al cuaderno completo del análisis realizado en Google Colab desd
 
 ## 🗂️ Contenido del proyecto
 
-### 📁 `churn_analysis.ipynb`
+### 📁 `Copia_de_TelecomX_LATAM.ipynb.ipynb`
 
 Notebook principal con todo el flujo de trabajo del análisis:
 
